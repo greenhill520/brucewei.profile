@@ -1,7 +1,9 @@
-## Xinliang Wei
+# Xinliang Wei
 
 Preferred name: Bruce Wei
+
 Phone number: 1-215-971-6880
+
 E-mail: xinliang.wei@temple.edu
 
 ### QUALIFICATIONS
