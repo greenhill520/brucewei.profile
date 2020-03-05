@@ -16,8 +16,12 @@ E-mail: xinliang.wei@temple.edu
 ### EDUCATION
 
 - Ph.D in Computer & Information Sciences, Department of Computer and Information Sciences, Temple University
-- M.S. in Software Engineering, June 2016, School of Data and Computer Science, SUN Yat-sen University, Guangzhou, China
-- B.E. in Software Engineering, June 2014, School of Software, SUN Yat-sen University, Guangzhou, China
+- M.S. in Software Engineering, School of Data and Computer Science, SUN Yat-sen University, 2016
+- B.E. in Software Engineering, School of Software, SUN Yat-sen University, 2014
+
+### RESEARCH INTERESTS
+
+Edge Computing, Internet of Things, Computer Graphics
 
 ### WORK EXPERIENCE
 
