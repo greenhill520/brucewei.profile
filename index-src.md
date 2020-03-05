@@ -21,7 +21,9 @@ E-mail: xinliang.wei@temple.edu
 
 ### RESEARCH INTERESTS
 
-Edge Computing, Internet of Things, Computer Graphics
+- Edge Computing
+- Internet of Things
+- Computer Graphics
 
 ### WORK EXPERIENCE
 
